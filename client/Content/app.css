@@ -1,0 +1,9 @@
+/* Custom CSS goes here */
+
+body {
+    padding-bottom: 80px;
+}
+
+.a.btn btn-primary {
+    padding-bottom: 20px;
+}
